@@ -254,7 +254,6 @@ const Home = () => {
                         <div className="flex flex-col">
                           <span className="text-2xl font-bold text-orange-600">
                             Rs{recipe.price}
-                            {console.log(recipe.price)}
                           </span>
                           <span className="text-xs text-gray-500">per serving</span>
                         </div>
