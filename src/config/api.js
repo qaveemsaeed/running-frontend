@@ -10,8 +10,8 @@ export const API_CONFIG = {
   // Endpoints
   ENDPOINTS: {
     // Auth
-    LOGIN: '/consumer/login',
-    SIGNUP: '/consumer/sign-up',
+    LOGIN: 'api/consumer/login',
+    SIGNUP: 'api/consumer/sign-up',
     PROFILE: '/consumer/profile',
     USER_DATA: '/consumer/user-data',
     
