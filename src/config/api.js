@@ -16,8 +16,8 @@ export const API_CONFIG = {
     USER_DATA: '/consumer/user-data',
     
     // Home & Recipes
-    HOME: '/home',
-    SEARCH: '/search',
+    HOME: 'home',
+    SEARCH: 'search',
     RECIPE: (id) => `/${id}`,
     
     // Cart
