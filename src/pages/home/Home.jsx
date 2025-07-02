@@ -204,7 +204,7 @@ const Home = () => {
                     {/* Recipe Image */}
                     <div className="relative overflow-hidden aspect-[4/3]">
                       <img
-                        src={recipe.images?.[0] || '/api/placeholder/300/225'}
+                        src={recipe.image || '/api/placeholder/300/225'}
                         alt={recipe.name}
                         className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                         loading="lazy"
