@@ -1,8 +1,8 @@
 // API Configuration
 export const API_CONFIG = {
   // Base URLs
-  BASE_URL: import.meta.env.DEV ? '/api' : (import.meta.env.VITE_API_BASE_URL || 'http://localhost:3000/api'),
-  AUTH_BASE_URL: import.meta.env.DEV ? '/api' : (import.meta.env.VITE_AUTH_API_BASE_URL || 'http://localhost:5000/api'),
+  BASE_URL: import.meta.env.DEV ? '/api' : (import.meta.env.VITE_API_BASE_URL),
+  AUTH_BASE_URL: import.meta.env.DEV ? '/api' : (import.meta.env.VITE_AUTH_API_BASE_URL),
   
   // CORS Proxy for development (only use in development)
   CORS_PROXY: import.meta.env.DEV ? 'https://cors-anywhere.herokuapp.com/' : '',
