@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Chicken Biryani",
+    "image": "https://www.recipetineats.com/wp-content/uploads/2021/07/Chicken-Biryani_6.jpg",
+    "link": "https://www.recipetineats.com/chicken-biryani/",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Beef Nihari",
+    "image": "https://i.ytimg.com/vi/zZDfWT3G7ZM/maxresdefault.jpg",
+    "link": "https://www.foodfusion.com/recipe/beef-nihari/",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "title": "Vegetable Pulao",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/vegetable-pulao-recipe.jpg",
+    "link": "https://www.indianhealthyrecipes.com/veg-pulao-recipe-vegetable-pulao/",
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "title": "Chicken Karahi",
+    "image": "https://www.teaforturmeric.com/wp-content/uploads/2021/08/Chicken-Karahi-Authentic-13.jpg",
+    "link": "https://www.teaforturmeric.com/chicken-karahi/",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "title": "Daal Tarka",
+    "image": "https://ministryofcurry.com/wp-content/uploads/2020/01/daal-tadka-2.jpg",
+    "link": "https://ministryofcurry.com/dal-tadka/",
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "title": "Aloo Keema",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/07/Keema-Aloo.jpg",
+    "link": "https://www.cookwithmanali.com/keema-aloo/",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "title": "Palak Paneer",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/palak-paneer-recipe.jpg",
+    "link": "https://www.indianhealthyrecipes.com/palak-paneer/",
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "title": "Chapli Kebab",
+    "image": "https://i.ytimg.com/vi/FH-y9p7zM7I/maxresdefault.jpg",
+    "link": "https://www.foodfusion.com/recipe/chapli-kabab/",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "title": "Butter Chicken",
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Best-Butter-Chicken.jpg",
+    "link": "https://www.cubesnjuliennes.com/butter-chicken-recipe/",
+    "rating": 4.9
+  },
+  {
+    "id": 10,
+    "title": "Sindhi Biryani",
+    "image": "https://i.ytimg.com/vi/iHU_U9DAyOU/maxresdefault.jpg",
+    "link": "https://www.foodfusion.com/recipe/sindhi-biryani/",
+    "rating": 4.8
+  }
+]
